@@ -32,7 +32,6 @@ Realtime_ChatBot/
 ├── requirements.txt # Python dependencies
 └── README.md # You are here!
 
-
 ---
 
 ## 💡 Features
@@ -46,6 +45,19 @@ Realtime_ChatBot/
 - 📎 Dynamic PDF Upload and Question Answering
 
 ---
+##Working Website
+
+![alt text]({D4EE90C3-735E-4A64-A9DA-FA0432BB1D56}.png)
+
+
+
+![alt text]({34578643-271A-44CC-A4F2-E6932EF41F6F}.png)
+
+You Can Add Custom PDFs and ask questions on given PDFs
+
+![alt text]({6F40EB12-E8D3-4172-A0B5-965CAB95F2AC}.png)
+
+
 
 ## ⚙️ Setup Instructions
 
@@ -137,9 +149,9 @@ python-dotenv
 
 ❓ Sample Queries
 
-“How to pair Realme Buds with phone?”
+“what is Tempreture Description of Realme buds?”
 
-“What is the voltage range supported by ABB device?”
+“What is low water alarm?”
 
 “How to reset a Dell Latitude laptop?”
 
@@ -155,9 +167,9 @@ python-dotenv
 Contact
 Made with ❤️ by Parth Dhone
 
-For issues or suggestions, open a GitHub issue or email at "parthdhone53@example.com"
+For issues or suggestions, open a GitHub issue or email at "parthdhone53@gmail.com"
 
-Github Link:
+Github Link:https://github.com/parthdhone/RagChatbot.git
 
 
 
